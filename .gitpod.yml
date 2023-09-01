@@ -3,3 +3,4 @@ tasks:
 vscode:
   extensions:
     - redhat.java
+    - vscjava.vscode-java-test
