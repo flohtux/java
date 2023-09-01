@@ -1,2 +1,10 @@
+
 tasks:
     - init: gradle build
+vscode:
+  extensions:
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-java-pack
+    - fwcd.kotlin
+    - redhat.java
+    - vscjava.vscode-java-test
